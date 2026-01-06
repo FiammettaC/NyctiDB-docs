@@ -6,8 +6,7 @@
 Minerva: An Open-Source Library for Bioprocesses
 =========================================================================
 
-.. image:: graphics/logo.png
-   :scale: 25 %
+.. image:: graphics/Front.png
 
 Minerva is a relational database with (i) bio-kinetic models; (ii) process and modeling information; (iii) and an expert system.
 
@@ -25,16 +24,10 @@ Key Features & Capabilities
 * **Accesible for all and to all.**
   Several first principle models are inside this database. Some of the most importants are: the aerobic growth of Saccharomyces cerevisia or Escherichia coli or the anaerobic growth of Mannheimia succiniciproducens.
 
-Why we do this...
+Overview
 -----------------------------
 
-.. image:: graphics/flowering_data.png
-================================
-
-How we do this...
------------------------------
-
-.. image:: graphics/Ontology_v1.png
+.. image:: graphics/Instance_diagram.png
 ================================
 
 
@@ -45,25 +38,6 @@ How we do this...
    model-library
    parameter-library
    problem-library
-   theory-library
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Methods:
-
-   MatrixNotation
-   MongoDB
-   Json
-   Python
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Applications:
-
-   Software-integration
-   AI
-
 
 Indices and tables
 ==================
