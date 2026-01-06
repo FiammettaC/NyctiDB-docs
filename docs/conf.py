@@ -27,3 +27,11 @@ exclude_patterns = []
 #html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
+html_context = {
+    "display_github": True, 
+    "github_user": "FiammettaC", 
+    "github_repo": "NyctiDB-sphinx", 
+    "github_version": "main", 
+    "conf_py_path": "/docs/", 
+}
