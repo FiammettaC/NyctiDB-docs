@@ -10,6 +10,7 @@ build:
 
 sphinx:
   configuration: docs/conf.py  # Double check if yours is at docs/source/conf.py
+  fail_on_warning: false
 
 # Optionally, but recommended,
 # declare the Python requirements required to build your documentation
